@@ -1,0 +1,1 @@
+# Archivo de configuración de ejemplo (vacío para esta demo)
